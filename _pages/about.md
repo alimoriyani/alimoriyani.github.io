@@ -16,12 +16,12 @@ Additionally, I hold a Master's degree in Construction Management and a Bachelor
 
 ## 🎓 Education
 
-- **PhD (ABD) in Civil Engineering / Infrastructure Systems**  
+- **PhD (ABD) in Infrastructure and Environmental Systems**  
   University of North Carolina at Charlotte, USA  
-  *Focus: Advanced data analytics, infrastructure project delivery, and performance modeling*
+  *Focus: Advanced data analytics, infrastructure project delivery, and performance*
 
 - **Master of Science in Construction Management**  
-  *(University Name)*
+  *Mehran University of Engineering and Technology, Jamshoro, Pakistan*
 
 - **Bachelor of Science in Civil Engineering**  
-  *(University Name)*
+  *Mehran University of Engineering and Technology, Jamshoro, Pakistan*
