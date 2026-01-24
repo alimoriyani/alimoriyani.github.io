@@ -6,7 +6,6 @@ layout: single
 ---
 
 
-## Teaching Experience
 
 ### University of North Carolina at Charlotte, USA
 
