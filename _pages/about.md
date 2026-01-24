@@ -39,6 +39,8 @@ Additionally, I hold a Master's degree in Construction Management and a Bachelor
 
 ## Professional Positions
 
+### Academic Appointments
+
 - **Research Assistant / Teaching Assistant**  
   University of North Carolina at Charlotte, USA  
   *Aug 2024 – Present*
@@ -51,8 +53,29 @@ Additionally, I hold a Master's degree in Construction Management and a Bachelor
   Mehran University of Engineering and Technology, Jamshoro, Pakistan  
   *Mar 2018 – Dec 2021*
 
+### Industry Experience
+
 - **Civil Engineer**  
-  Samad Associates, Hyderabad, Pakistan  
+  Samad Associates, Hyderabad, Sindh, Pakistan  
   *Jan 2017 – Feb 2018*
+
+### Internships
+
+- **Engineering Intern**  
+  ATKINS and Techno-Consult International, Karachi, Pakistan  
+  *Summer 2014*
+
+- **Engineering Intern**  
+  Arbi Square, Hyderabad, Pakistan  
+  *Summer 2015*
+
+- **Engineering Intern**  
+  Osmani & Company Consultants, Karachi, Pakistan  
+  *Winter 2015*
+
+- **Engineering Intern**  
+  G3 Engineering Consultants, Hyderabad, Pakistan  
+  *Summer 2016*
+
 
  
