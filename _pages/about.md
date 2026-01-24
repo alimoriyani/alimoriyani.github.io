@@ -14,7 +14,7 @@ Additionally, I hold a Master's degree in Construction Management and a Bachelor
 
 ---
 
-## 🎓 Education
+## Education
 
 - **PhD (ABD) in Infrastructure and Environmental Systems**  
   University of North Carolina at Charlotte, USA  
@@ -25,3 +25,22 @@ Additionally, I hold a Master's degree in Construction Management and a Bachelor
 
 - **Bachelor of Science in Civil Engineering**  
   *Mehran University of Engineering and Technology, Jamshoro, Pakistan*
+
+  ---
+
+## Research Areas
+
+- Advanced data analytics and machine learning for civil infrastructure  
+- Data-driven modeling of infrastructure project delivery and performance  
+- Risk assessment, reliability, and resilience of infrastructure systems  
+- Construction project scheduling, controls, and decision support systems  
+- Network analysis and graph-based methods in construction and infrastructure
+
+## Professional Positions
+
+- Advanced data analytics and machine learning for civil infrastructure  
+- Data-driven modeling of infrastructure project delivery and performance  
+- Risk assessment, reliability, and resilience of infrastructure systems  
+- Construction project scheduling, controls, and decision support systems  
+- Network analysis and graph-based methods in construction and infrastructure
+ 
