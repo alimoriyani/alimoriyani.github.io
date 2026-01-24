@@ -6,7 +6,7 @@ author_profile: true
 
 ## Teaching Experience
 
-### University of North Carolina at Charlotte, USAa
+### University of North Carolina at Charlotte, USAaa
 
 - **Construction Project Administration (CMET 3224)**  
   *Teaching Assistant | Fall 2024*  
