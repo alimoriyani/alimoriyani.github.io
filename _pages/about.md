@@ -30,17 +30,29 @@ Additionally, I hold a Master's degree in Construction Management and a Bachelor
 
 ## Research Areas
 
-- Advanced data analytics and machine learning for civil infrastructure  
-- Data-driven modeling of infrastructure project delivery and performance  
-- Risk assessment, reliability, and resilience of infrastructure systems  
-- Construction project scheduling, controls, and decision support systems  
-- Network analysis and graph-based methods in construction and infrastructure
+- Advanced data analytics for infrastructure planning and management  
+- Data-driven decision support tools for construction and transportation projects  
+- Infrastructure project risk, performance, and resilience analysis  
+- Construction management, scheduling, and project controls  
+- Applied machine learning for civil and infrastructure engineering
+
 
 ## Professional Positions
 
-- Advanced data analytics and machine learning for civil infrastructure  
-- Data-driven modeling of infrastructure project delivery and performance  
-- Risk assessment, reliability, and resilience of infrastructure systems  
-- Construction project scheduling, controls, and decision support systems  
-- Network analysis and graph-based methods in construction and infrastructure
+- **Research Assistant / Teaching Assistant**  
+  University of North Carolina at Charlotte, USA  
+  *Aug 2024 – Present*
+
+- **Research Assistant / Teaching Assistant**  
+  North Dakota State University, Fargo, ND, USA  
+  *Jan 2022 – Jul 2024*
+
+- **Lecturer (Instructor)**  
+  Mehran University of Engineering and Technology, Jamshoro, Pakistan  
+  *Mar 2018 – Dec 2021*
+
+- **Civil Engineer**  
+  Samad Associates, Hyderabad, Pakistan  
+  *Jan 2017 – Feb 2018*
+
  
