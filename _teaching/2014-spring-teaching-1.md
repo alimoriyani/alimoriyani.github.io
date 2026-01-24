@@ -1,20 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Construction Project Administration (CMET 3224)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/cmet-3224
+venue: "University of North Carolina at Charlotte"
+date: 2024-08-01
+location: "Charlotte, NC, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+### Role
+Teaching Assistant
 
-Heading 1
-======
+### Instructor
+Dr. Chau Le
 
-Heading 2
-======
+### Course Description
+This course introduces principles of construction project administration, including contract management, project documentation, scheduling coordination, and communication among project stakeholders.
 
-Heading 3
-======
+### Responsibilities
+- Assisted with course content development and lecture materials  
+- Supported grading, assessment, and student mentoring  
+- Contributed to ABET and ACCE accreditation documentation  
+
+### Enrollment
+66 undergraduate students
