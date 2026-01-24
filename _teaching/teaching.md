@@ -2,7 +2,9 @@
 title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
+layout: single
 ---
+
 
 ## Teaching Experience
 
