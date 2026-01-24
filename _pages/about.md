@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate (ABD) at the University of North Carolina at Charlotte, USA, specializing in advanced data analytics for the planning, management, and performance improvement of civil infrastructure projects. My doctoral research is supervised by [Dr. Chau Le]([insert link](https://et.charlotte.edu/people/chau-le/)), [Dr. Jake Smithwick] (insert link), [Dr. Harun Pirim] (insert link), and [Dr. Jay Wu] (insert link), and focuses on data-driven approaches to enhance infrastructure project delivery and performance. My work has been published in peer-reviewed journals of the American Society of Civil Engineers (ASCE).
+I am a PhD Candidate (ABD) at the University of North Carolina at Charlotte, USA, specializing in advanced data analytics for the planning, management, and performance improvement of civil infrastructure projects. My doctoral research, supervised by [Dr. Chau Le](https://et.charlotte.edu/people/chau-le/),[Dr. Jake Smithwick](https://et.charlotte.edu/directory/jake-smithwick-phd-mpa/),[Dr. Harun Pirim](https://www.ndsu.edu/people/harun-pirim), and [Dr. Jay Wu](https://cee.charlotte.edu/directory/jy-s-wu-phd-pe-ph/) focuses on data-driven methodologies to enhance infrastructure project delivery and performance. My research has been published in peer-reviewed top journals of the American Society of Civil Engineers (ASCE).
 
-I hold a Master’s degree in Construction Management and a Bachelor’s degree in Civil Engineering. I have extensive experience in project management, scheduling and controls, construction safety, and risk assessment.
+Additionally, I hold a Master's degree in Construction Management and a Bachelor's degree in Civil Engineering. My professional experience includes project management, scheduling and controls, construction safety, and risk assessment.
 
 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
