@@ -1,3 +1,12 @@
+---
+title: "Publications"
+permalink: /publications/
+author_profile: true
+layout: single
+---
+
+
+
 ## Peer-reviewed Journal Articles
 
 **J8.** Muhammad Ali Moriyani; Chau Le; Tuyen Le; Harun Pirim (2025).  
