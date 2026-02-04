@@ -13,7 +13,7 @@ layout: single
 
 
 ma.moriyani.github.io/
-![NCDOT Research Symposium 2025](ma.moriyani.github.io/images/ncdot-symposium-2025.jpeg)
+![NCDOT Research Symposium 2025](/images/ncdot-symposium-2025.jpeg)
 
 
 ---
