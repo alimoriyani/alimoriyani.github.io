@@ -11,7 +11,7 @@ layout: single
 **University of North Carolina at Charlotte, Charlotte, NC, USA**  
 *Jun 19, 2025*
 
-![NCDOT/SCDOT Peer Exchange 2025](/images/peer-exchange-2025.jpeg)
+![Peer Exchange 2025]({{ site.baseurl }}/images/talks/peer-exchange-2025.jpg)
 
 ---
 
