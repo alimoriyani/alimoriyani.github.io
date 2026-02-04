@@ -11,8 +11,9 @@ layout: single
 **University of North Carolina at Charlotte, Charlotte, NC, USA**  
 *Jun 19, 2025*
 
-![Peer Exchange 2025]({{ site.baseurl }}/images/talks/peer-exchange-2025.jpg)
-<img src="{{ site.baseurl }}/assets/images/talks/peer-exchange-2025.jpg" width="650" alt="NCDOT/SCDOT Peer Exchange 2025">
+![NCDOT Research Symposium 2025](images/ncdot-symposium-2025.jpeg)
+
+
 ---
 
 ### Red-flag bidding pattern in construction bidding (NCDOT Research and Innovation Symposium 2025)
