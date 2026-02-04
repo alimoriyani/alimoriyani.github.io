@@ -12,7 +12,7 @@ layout: single
 *Jun 19, 2025*
 
 ![Peer Exchange 2025]({{ site.baseurl }}/images/talks/peer-exchange-2025.jpg)
-
+<img src="{{ site.baseurl }}/assets/images/talks/peer-exchange-2025.jpg" width="650" alt="NCDOT/SCDOT Peer Exchange 2025">
 ---
 
 ### Red-flag bidding pattern in construction bidding (NCDOT Research and Innovation Symposium 2025)
