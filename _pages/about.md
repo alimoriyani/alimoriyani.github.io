@@ -12,7 +12,7 @@ I am a PhD Candidate (ABD) at the University of North Carolina at Charlotte, USA
 Additionally, I hold a Master's degree in Construction Management and a Bachelor's degree in Civil Engineering. My professional experience includes project management, scheduling and controls, construction safety, and risk assessment.
 
 
----
+
 
 ## Education
 
