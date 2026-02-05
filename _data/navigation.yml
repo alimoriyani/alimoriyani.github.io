@@ -23,5 +23,10 @@ main:
   - title: "Service"
     url: /service/
 
+  - title: "Professional Development"
+    url: /professional-development/
+
+  - title: "Honors & Awards"
+    url: /honors-awards/
     
 
