@@ -11,7 +11,7 @@ layout: single
 **University of North Carolina at Charlotte, Charlotte, NC, USA**  
 *Jun 19, 2025*
 
-<img src="/images/ncdot-symposium-2025.jpeg" alt="NCDOT Research Symposium 2025" width="600">
+<img src="/images/ncdot-symposium-2025.jpeg" alt="NCDOT Research Symposium 2025" width="300">
 
 
 
@@ -21,5 +21,5 @@ layout: single
 **North Carolina State University, Raleigh, NC, USA**  
 *Feb 11–12, 2025*
 
-<img src="/images/ncdot-symposium-2025.jpeg" alt="NCDOT Research Symposium 2025" width="600">
+<img src="/images/ncdot-symposium-2025.jpeg" alt="NCDOT Research Symposium 2025" width="300">
 
