@@ -55,7 +55,7 @@ layout: single
 
 - **Treasurer**, Graduate Student Organization of Civil and Environmental Engineers  
   University of North Carolina at Charlotte  
-  *[Add years if desired]*  
+  *2026-Present*  
   - Managed organization finances, budgeting, and funding allocations  
   - Supported academic, professional, and social initiatives for graduate students
 
