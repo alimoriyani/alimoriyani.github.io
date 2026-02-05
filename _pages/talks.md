@@ -12,10 +12,12 @@ layout: single
 *Jun 19, 2025*
 
 <p align="center">
-  <img src="/_pages/images/ncdot-symposium-2025.jpeg" width="600">
+  <img src="{{ '/images/ncdot-symposium-2025.jpeg' | relative_url }}" width="600" alt="NCDOT Research & Innovation Symposium 2025">
   <br>
   <em>NCDOT Research & Innovation Symposium 2025</em>
 </p>
+
+<img src="{{ '/images/ncdot-symposium-2025.jpeg' | relative_url }}" alt="NCDOT Research Symposium 2025" width="300">
 
 
 
