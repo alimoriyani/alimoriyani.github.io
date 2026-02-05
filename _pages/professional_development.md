@@ -1,9 +1,10 @@
 ---
 title: "Professional Development"
-permalink: /professional-development/
+permalink: /prof-dev/
 author_profile: true
 layout: single
 ---
+
 
 ## Professional Development
 
