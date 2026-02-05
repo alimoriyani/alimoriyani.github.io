@@ -11,7 +11,7 @@ layout: single
 **University of North Carolina at Charlotte, Charlotte, NC, USA**  
 *Jun 19, 2025*
 
-![NCDOT Research Symposium 2025](/images/ncdot-symposium-2025.jpeg)
+![NCDOT Research Symposium 2025](/images/peer-exchange-2025.jpeg)
 {: style="max-width:300px; width:100%; height:auto; display:block; margin:0 auto;" }
 
 
