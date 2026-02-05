@@ -5,52 +5,62 @@ author_profile: true
 layout: single
 ---
 
-Peer Review Service
+## Peer Review Service
 
-Conference Reviewer, ASCE Joint Construction Institute (CI) and Construction Research Congress (CRC) 2026
-Organized by Texas A&M University and The University of Texas at San Antonio
-Review Period: October 2025 | Conference: March 18–21, 2026
+- **Conference Reviewer**, ASCE Joint Construction Institute (CI) and Construction Research Congress (CRC) 2026  
+  *Organized by Texas A&M University and The University of Texas at San Antonio*  
+  **Review Period:** October 2025  
+  **Conference Dates:** March 18–21, 2026
 
-Journal Reviewer, ASCE Journal of Construction Engineering and Management
-September 2025 – Present
+- **Journal Reviewer**, ASCE Journal of Construction Engineering and Management  
+  *September 2025 – Present*
 
-Journal Reviewer, ASCE Journal of Management in Engineering
-August 2023 – Present
+- **Journal Reviewer**, ASCE Journal of Management in Engineering  
+  *August 2023 – Present*
 
-University and Departmental Service
+---
 
-Mehran University of Engineering and Technology, Jamshoro, Pakistan
+## University and Departmental Service
 
-Secretary, Industrial Advisory Board, Department of Civil Engineering
-2019 – 2020
+**Mehran University of Engineering and Technology**, Jamshoro, Pakistan
 
-Developed relationships with the construction industry
+### Administrative and Academic Service
 
-Supported curriculum alignment with industry needs
+- **Secretary**, Industrial Advisory Board, Department of Civil Engineering  
+  *2019 – 2020*  
+  - Developed relationships with the construction industry  
+  - Supported curriculum alignment with industry needs
 
-Secretary, Committee for the Implementation and Assessment of Outcome-Based Education (OBE) System,
-Department of Civil Engineering
-2020 – 2021
+- **Secretary**, Committee for the Implementation and Assessment of Outcome-Based Education (OBE) System,  
+  Department of Civil Engineering  
+  *2020 – 2021*  
+  - Supported continuous improvement of academic programs through Outcome-Based Education  
+  - Assisted transition from traditional input-based education to measurable learning outcomes
 
-Supported continuous improvement of academic programs through Outcome-Based Education
+---
 
-Assisted transition from traditional input-based education to measurable learning outcomes
+## Academic and Student Engagement
 
-Academic and Student Engagement
+- **Teacher Coordinator**, BIG Event  
+  Mehran University of Engineering and Technology  
+  *2019*
 
-Teacher Coordinator, BIG Event, Mehran University of Engineering and Technology
-2019
+- **Teacher Coordinator**, MUET Model United Nations (MUETMUN)  
+  Mehran University of Engineering and Technology  
+  *2018 – 2021*
 
-Teacher Coordinator, MUET Model United Nations (MUETMUN),
-Mehran University of Engineering and Technology
-2018 – 2021
+---
 
-Leadership and Professional Service
+## Leadership and Professional Service
 
-Founding President, Mehran University Civil Engineers’ Society (MUCES),
-Department of Civil Engineering, Mehran University of Engineering and Technology
-2015 – 2016
+- **Treasurer**, Graduate Student Organization of Civil and Environmental Engineers  
+  University of North Carolina at Charlotte  
+  *[Add years if desired]*  
+  - Managed organization finances, budgeting, and funding allocations  
+  - Supported academic, professional, and social initiatives for graduate students
 
-Established a student-led professional society bridging academia, industry, and alumni
-
-Organized technical, professional development, and co-curricular activities
+- **Founding President**, Mehran University Civil Engineers’ Society (MUCES)  
+  Department of Civil Engineering, Mehran University of Engineering and Technology  
+  *2015 – 2016*  
+  - Established a student-led professional society bridging academia, industry, and alumni  
+  - Organized technical, professional development, and co-curricular activities
