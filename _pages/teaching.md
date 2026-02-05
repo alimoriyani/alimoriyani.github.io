@@ -5,69 +5,85 @@ author_profile: true
 layout: single
 ---
 
+## Teaching Philosophy
 
+My teaching emphasizes clarity, real-world application, and active student engagement. I aim to bridge theory and practice by integrating industry examples, data-driven insights, and problem-solving approaches that prepare students for professional engineering and construction management careers.
 
-### University of North Carolina at Charlotte, USA
+## University of North Carolina at Charlotte, USA
 
 **Construction Project Administration (CMET 3224)**  
 *Teaching Assistant | Fall 2024*  
 Enrollment: 66 undergraduate students  
 
-- Assisted with course delivery covering construction contracts, project documentation, administrative controls, and coordination among project stakeholders  
-- Supported lecture preparation, grading, and student mentoring  
-- Contributed to the preparation of ABET and ACCE accreditation documentation  
-- Assisted students with coursework related to real-world construction administration practices  
+- Contributed to preparation of ABET and ACCE accreditation documentation  
+- Supported instruction, grading, and student learning activities  
 
 ---
 
-### North Dakota State University, Fargo, ND, USA
+## North Dakota State University, Fargo, ND, USA
 
 **Specifications and Contracts (CM&E 315)**  
 *Teaching Assistant | Spring 2024, Spring 2023, Spring 2022*  
 Enrollment: 44–61 undergraduate students  
 
-- Supported instruction on construction specifications, contract documents, procurement methods, and legal aspects of construction projects  
-- Assisted with grading, assessments, and exam preparation  
-- Helped develop course materials and supported accreditation documentation  
+- Contributed to preparation of ABET and ACCE accreditation documentation  
+- Supported instruction, grading, and course administration  
 
 **Construction Cost Estimating (CM&E 380)**  
 *Teaching Assistant | Fall 2023*  
 Enrollment: 59 undergraduate students  
 
-- Assisted with instruction on quantity takeoffs, cost estimation methods, and industry-standard estimating practices  
-- Supported grading, homework evaluation, and student consultations  
-- Helped students understand practical cost estimating workflows used in construction projects  
+- Assisted with cost estimating labs, assignments, and evaluation  
 
 ---
 
-### Mehran University of Engineering and Technology, Jamshoro, Pakistan
+## Mehran University of Engineering and Technology, Jamshoro, Pakistan
 
-**Water Resources Engineering and Management (CE 372)**  
-*Instructor | Spring 2021*  
-Enrollment: 31 undergraduate students  
+*Instructor | Undergraduate and Graduate Courses*
 
-- Independently designed and delivered course lectures  
-- Developed assignments, quizzes, and examinations  
-- Managed grading and student evaluation  
-- Covered topics including hydrology, water resources systems, and sustainable water management  
+### Fall 2018
+- **Construction Engineering** — Civil Engineering (F16 Batch)
+- **Engineering Mechanics** — Environmental Engineering (Batch 17)
+- **Mechanics of Materials** — Industrial Engineering (Batch 17)
 
-**Mechanics of Materials (CE 231)**  
-*Instructor (Online) | Fall 2020*  
+### Spring 2019
+- **Civil Engineering Materials** — Civil Engineering (Batch 18)
+- **Project Planning and Management** — Environmental Engineering (F16 Batch)
+- **Water Resources Engineering and Management** — Environmental Engineering (F16 Batch)
 
-- Delivered the course fully online due to COVID-19 campus closure  
-- Prepared lecture content and assessments using Microsoft Teams  
-- Conducted online evaluations and student support sessions  
+### Fall 2019
+- **Applied Mechanics** — Electrical Engineering (Batch 18)
+- **Mechanics of Materials** — Industrial Engineering (Batch 18)
+- **Strength of Materials II** — Civil Engineering (Batch 17)
 
-**Engineering Mechanics (CE 116)**  
-*Instructor | Fall 2018*  
-Enrollment: 23 undergraduate students  
+### Spring 2020
+- **Civil Engineering Materials** — Civil Engineering (Batch 19)
+- **Project Planning and Management** — Environmental Engineering (F16 Batch)
+- **Project Management** — Civil Engineering (Batch 17)
+- **Strength of Materials** — Mining Engineering (Batch 18)
 
-- Delivered foundational instruction in engineering statics and mechanics  
-- Designed assessments and managed grading  
-- Provided academic support to early-year engineering students  
+### Fall 2020 *(Online — COVID-19)*
+- **Construction Engineering** — Civil Engineering (Batch 18)
+- **Mechanics of Materials** — Industrial Engineering (Batch 19)
+- **Theory of Structures** — Civil Engineering (Batch 18)
+
+### Spring 2021 *(Hybrid — Online + In-Person)*
+- **Civil Engineering Materials** — Civil Engineering (Batch 20)
+- **Construction and Building Economics** — Graduate-level course
+- **Project Management** — Civil Engineering (Batch 18)
+- **Water Resources Engineering and Management** — Environmental Engineering (Batch 18)
+
+### Fall 2021
+- **Mechanics of Materials** — Postgraduate (Batch 19)
+- **Mechanics of Materials** — Industrial Engineering (Batch 20)
+- **Engineering Mechanics** — Mining Engineering (Batch 20)
+- **Engineering Mechanics** — Chemical Engineering (Batch 20)
+
+**Instructional Responsibilities**
+- Designed and delivered lectures (in-person, online, and hybrid)
+- Developed assignments, quizzes, and examinations; managed grading and evaluation
+- Held office hours and supported student learning and performance improvement
 
 ---
 
-## Teaching Philosophy
 
-My teaching emphasizes clarity, real-world application, and active student engagement. I aim to bridge theory and practice by integrating industry examples, data-driven insights, and problem-solving approaches that prepare students for professional engineering and construction management careers.
